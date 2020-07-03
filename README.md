@@ -5,11 +5,13 @@ BeWork项目（人员管理）
 
 &nbsp;&nbsp;&nbsp;把文件clone到本地
 
+&nbsp;&nbsp;&nbsp;前端页面（vue-hr），后端服务器（hr）
+
 &nbsp;&nbsp;&nbsp;把数据导入本地MySQL数据库并启动数据库服务，
 
 &nbsp;&nbsp;&nbsp;在idea中导入vhr文件夹，（注意修改数据库路径），
 
-&nbsp;&nbsp;&nbsp;在前端编译器vscode或webstorm中导入vue-hr文件夹。
+&nbsp;&nbsp;&nbsp;在前端编译器vscode或webstorm中导入vue-hr文件夹，并安装依赖 npm install。
 
 
 2.功能介绍：
