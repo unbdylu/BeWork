@@ -16,6 +16,7 @@ BeWork项目（人员管理）
 &nbsp;&nbsp;&nbsp;前端页面（vue-hr），后端服务器（hr），数据库hr.sql
 
 &nbsp;&nbsp;&nbsp;登陆页面（默认用户为admin，密码为123（数据库中文件已加密））。。等
+员工资料、人事管理、薪资管理、系统管理
 
 
 
@@ -24,3 +25,5 @@ BeWork项目（人员管理）
 &nbsp;&nbsp;&nbsp;后端：springboot，springsecrity
 &nbsp;&nbsp;&nbsp;前端：vue，vuejs，ajax，
 &nbsp;&nbsp;&nbsp;数据库：MySQL
+
+此项目部署阿里云（访问速度较慢）：http://8.129.176.54:8088/index.html#/
