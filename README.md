@@ -26,4 +26,4 @@ BeWork项目（人员管理）
 &nbsp;&nbsp;&nbsp;前端：vue，vuejs，ajax，
 &nbsp;&nbsp;&nbsp;数据库：MySQL
 
-此项目部署阿里云（访问速度较慢）：http://8.129.176.54:8088/index.html#/
+此项目部署阿里云（访问速度较慢）：http://0026.online:8088/index.html#/
