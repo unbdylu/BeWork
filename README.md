@@ -15,8 +15,13 @@ BeWork项目（人员管理）
 2.功能介绍：
 &nbsp;&nbsp;&nbsp;前端页面（vue-hr），后端服务器（hr），数据库hr.sql
 
-&nbsp;&nbsp;&nbsp;登陆页面（默认用户为admin，密码为123（数据库中文件已加密））。。等
-员工资料、人事管理、薪资管理、系统管理
+&nbsp;&nbsp;&nbsp;登陆页面（默认用户为admin，密码为123（数据库中文件已加密））。。等员工资料、人事管理、薪资管理、系统管理</br>
+ ![登录页面](https://github.com/unbdylu/BeWork/blob/dev/screenshot/1.PNG) </br>
+  ![页面1](https://github.com/unbdylu/BeWork/blob/dev/screenshot/2.PNG) </br>
+   ![页面2](https://github.com/unbdylu/BeWork/blob/dev/screenshot/3.PNG) </br>
+    ![页面3](https://github.com/unbdylu/BeWork/blob/dev/screenshot/4.PNG) </br>
+     ![页面4](https://github.com/unbdylu/BeWork/blob/dev/screenshot/5.PNG) </br>
+
 
 
 
